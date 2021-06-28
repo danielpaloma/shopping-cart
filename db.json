@@ -1,0 +1,73 @@
+{
+  "products": [
+    {
+      "id":1,
+      "name": "quickdraw",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it",
+      "imageUrl" : "https://www.bfgcdn.com/600_600_90/319-0345/petzl-spirit-express-quickdraw-quickdraw.jpg",
+      "price": 60000
+    },
+
+    {
+      "id":2,
+      "name": "carabiner",
+      "description": "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing",
+      "imageUrl" : "https://www.bfgcdn.com/600_600_90/322-0048-0112/dmm-phantom-screwgate-carabiner.jpg",
+      "price": 30000
+    },
+
+    {
+      "id":3,
+      "name": "helmet",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC",
+      "imageUrl" : "https://www.bfgcdn.com/600_600_90/851-0320-0311/smith-maze-bike-helmet.jpg",
+      "price": 120000
+    },
+
+    {
+      "id":4,
+      "name": "rope",
+      "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.",
+      "imageUrl" : "https://www.bfgcdn.com/600_600_90/308-0135/edelrid-confidence-8-mm-static-rope.jpg",
+      "price": 600000
+    },
+
+    {
+      "id":5,
+      "name": "harness",
+      "description": "Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied",
+      "imageUrl" : "https://www.bfgcdn.com/600_600_90/303-0467-0211/arcteryx-womens-c-quence-harness-climbing-harness.jpg",
+      "price": 180000
+    },
+
+    {
+      "id":6,
+      "name": "stoppers",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, ",
+      "imageUrl" : "https://www.bfgcdn.com/600_600_90/325-0024/black-diamond-stoppers-nut.jpg",
+      "price": 270000
+    }
+
+  ],
+
+  "cart":[],
+  
+  
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
